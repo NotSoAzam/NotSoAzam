@@ -1,13 +1,13 @@
 ```zsh
 > help --info
-> age: 21-years-young
+> age: 16-years-young
 > pronouns: he/him
 ````
 
 ````zsh
 > help --contact
-> discord: uchks
-> mailto: jason@piracybound.com
+> discord: notsoazam
+> mailto: notazamatall@gmail.com
 ````
 ---
 
