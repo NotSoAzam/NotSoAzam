@@ -9,4 +9,3 @@
 > discord: notsoazam
 > mailto: notazamatall@gmail.com
 ````
----
